@@ -1,6 +1,6 @@
 # moAI Tech
 
-<img src="logo.png" alt="moAI Tech Logo" height="200" width="100%" width:auto style="object-fit:cover"/>
+![moAI Tech Logo](logo-panel.png)
 
 Welcome to the official page of **moAI Tech**, a leading consulting firm specializing in **telecom solutions** and **cost reduction**. Our mission is to deliver innovative solutions, cutting-edge tools, and advanced technologies that help businesses optimize their operations and enhance their return on investment in telecommunications.
 
